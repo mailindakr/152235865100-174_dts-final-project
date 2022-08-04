@@ -9,13 +9,13 @@ const Footer = () => {
     <footer className={styles.footer}>
       <div className="container">
         <p className="text-muted">
-          © {currentYear} Game Ku
+          © {currentYear} Games World
         </p>
         <p className={styles.created}>
           Created{" "}
           <span>
           </span>{" "}
-          Gusti Adi Putra
+          152235865100-174 - Mailinda Kirana
         </p>
       </div>
     </footer>
